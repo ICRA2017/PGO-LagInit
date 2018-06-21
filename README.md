@@ -36,3 +36,7 @@ The current code has the following external dependencies:
 - [mMath toolbox](https://github.com/jbriales/mMath) for some matrix-related operations
 
 - [manopt toolbox](http://www.manopt.org/) for on-manifold optimization
+
+## Tests
+
+Not available.
