@@ -1,4 +1,7 @@
 # PGO-LagInit
+
+[![Matlab logo](Matlab_Logo.png "Tests")](https://github.com/ICRA2017/PGO-LagInit#tests)
+
 An approach for Pose Graph Optimization (PGO) initialization through the (Lagrangian) SDP relaxation.
 
 The Semidefinite Program (SDP) relaxation for Pose Graph Optimization (or Rotation Synchronization)
@@ -37,6 +40,7 @@ The current code has the following external dependencies:
 
 - [manopt toolbox](http://www.manopt.org/) for on-manifold optimization
 
-## Tests
+
+## Tests
 
 Not available.
