@@ -1,6 +1,6 @@
 # PGO-LagInit
 
-[![Matlab logo](https://raw.githubusercontent.com/ICRA2017/ICRA2017.github.io/master/Matlab_Logo.png "Tests")](https://github.com/ICRA2017/PGO-LagInit#tests)
+[![untested](https://img.shields.io/badge/matlab-untested-brightred.svg)](https://github.com/ICRA2017/PGO-LagInit#tests)
 
 An approach for Pose Graph Optimization (PGO) initialization through the (Lagrangian) SDP relaxation.
 
